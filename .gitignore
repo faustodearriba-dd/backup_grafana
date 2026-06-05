@@ -1,0 +1,4 @@
+.env
+.venv/
+backups/
+dashboards_metadata.csv
