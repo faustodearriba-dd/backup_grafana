@@ -5,6 +5,7 @@
 Definir un archivo .env con las siguientes variables:
 
 GRAFANA_URL=
+
 GRAFANA_TOKEN=
 
 El archivo tiene que estar en la misma carpeta en donde está el script
